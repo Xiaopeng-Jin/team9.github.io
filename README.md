@@ -15,7 +15,7 @@ If you’ve never made a Github pages website before, you can follow this webpag
 
 ### 1. Video
 
-![Final](final.mp4)
+[Final](final.mp4)
 The link of the video is https://drive.google.com/file/d/1JCrWss69OC8c2rB8aItjhOfdXSXezsD0/view?usp=drive_link
 
 
