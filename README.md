@@ -4,7 +4,7 @@ An audio processor
 
     * Team Name: Eureka
     * Team Members: Linhai Deng, Zhongyu Wang and Xiaopeng Jin  
-    * Github Repository URL: [https://github.com/upenn-embedded/final-project-eureka.git](https://xiaopeng-jin.github.io/team9.github.io/)
+    * Github Repository URL: https://xiaopeng-jin.github.io/team9.github.io/
     * Github Pages Website URL: [for final submission]
     * Description of hardware: (embedded hardware, laptop, etc) 
 
