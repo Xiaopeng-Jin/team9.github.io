@@ -4,7 +4,7 @@ An audio processor
 
     * Team Name: Eureka
     * Team Members: Linhai Deng, Zhongyu Wang and Xiaopeng Jin  
-    * Github Repository URL: https://github.com/upenn-embedded/final-project-eureka.git
+    * Github Repository URL: [https://github.com/upenn-embedded/final-project-eureka.git](https://xiaopeng-jin.github.io/team9.github.io/)
     * Github Pages Website URL: [for final submission]
     * Description of hardware: (embedded hardware, laptop, etc) 
 
@@ -15,8 +15,10 @@ If you’ve never made a Github pages website before, you can follow this webpag
 
 ### 1. Video
 
+Click the link to see the final video:
+
 [Final](final.mp4)
-The link of the video is https://drive.google.com/file/d/1JCrWss69OC8c2rB8aItjhOfdXSXezsD0/view?usp=drive_link
+
 
 
 
@@ -138,7 +140,7 @@ This project has been a valuable learning experience, offering insights into emb
 #### Challenges and Changes in Approach
 
 1. The flash memory implementation was more complex than anticipated. About the flash, the code is completed. But in the application, the flash cannot succeed every time. In our initial plan, we want to use the flash to record our data in real time. It is a one-time thing. Therefore, we didn’t integrate it into the circuit. 
-
+2.The challenge lies in the 16MHz system clock being too low for the 1.25µs (800kHz) LED digital signal, making precise PWM generation difficult. Additional computations delay PWM duty adjustments, disrupting timing logic. To address this, hardware PWM modules can minimize software delays, code execution can be optimized, and critical PWM processes can be isolated using task scheduling or DMA.
 
 #### What Could Have Been Done Differently
 
