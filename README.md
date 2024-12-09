@@ -16,8 +16,11 @@ If you’ve never made a Github pages website before, you can follow this webpag
 ### 1. Video
 
 Click the link to see the final video:
+The first video is our Powerpoint&presentation.
+The second video is our function demo.
 
-[Final](final.mp4)
+[Presentation](https://drive.google.com/file/d/1OvyNMGJ50q6dFk_L6bCDSx9tq8DOD812/view?usp=drive_link)
+[Function_demo](final.mp4)
 
 
 
