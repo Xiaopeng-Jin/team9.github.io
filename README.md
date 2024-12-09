@@ -1,5 +1,5 @@
-# team9.github.io
-An audio processor
+# Audio processor
+
 # final-project-skeleton
 
     * Team Name: Eureka
