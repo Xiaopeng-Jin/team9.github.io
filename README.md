@@ -4,14 +4,11 @@ An audio processor
 
     * Team Name: Eureka
     * Team Members: Linhai Deng, Zhongyu Wang and Xiaopeng Jin  
-    * Github Repository URL: https://xiaopeng-jin.github.io/team9.github.io/
-    * Github Pages Website URL: [for final submission]
+    * Github Repository URL: https://github.com/upenn-embedded/final-project-eureka.git
+    * Github Pages Website URL: https://xiaopeng-jin.github.io/team9.github.io/
     * Description of hardware: (embedded hardware, laptop, etc) 
 
 ## Final Project Report
-
-Don't forget to make the GitHub pages public website!
-If you’ve never made a Github pages website before, you can follow this webpage (though, substitute your final project repository for the Github username one in the quickstart guide):  <https://docs.github.com/en/pages/quickstart>
 
 ### 1. Video
 
