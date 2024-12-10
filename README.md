@@ -26,6 +26,10 @@ The second video is our function demo.
 The following picture is the ADC test result.
 ![ADC](ADC_final.jpg)
 
+The following picture is the DAC test result.
+
+![ADC](DAC.png)
+
 The following picture is the LED part.
 ![LED](Led_final.jpg)
 
